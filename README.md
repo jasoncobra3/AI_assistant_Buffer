@@ -1,10 +1,10 @@
-# 🧠 AI Assistant Features – Project Overview
+#  AI Assistant Features – Project Overview
 
 This document outlines the AI/ML-powered features implemented (or planned) in our social media automation tool. The assistant is designed to help users create, refine, repurpose, and optimize content for multiple platforms using AI.
 
 ---
 
-## 🚀 Features
+##  Features
 
 ### 1. AI Assistant for Content Generation
 - **Idea Generation**: Generates post ideas based on business context and target audience.
@@ -34,7 +34,7 @@ This document outlines the AI/ML-powered features implemented (or planned) in ou
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Tool / Library                          | Purpose / Use Case                                       |
 |----------------------------------------|-----------------------------------------------------------|
@@ -46,7 +46,7 @@ This document outlines the AI/ML-powered features implemented (or planned) in ou
 
 ---
 
-## 📝 Notes
+## Notes
 
 - Features are modular and API-driven.
 - Focus is on AI-assisted creativity, not just automation.
