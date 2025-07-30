@@ -46,10 +46,23 @@ This document outlines the AI/ML-powered features implemented (or planned) in ou
 
 ---
 
-## Notes
+## Model Comparison Table
 
-- Features are modular and API-driven.
-- Focus is on AI-assisted creativity, not just automation.
+| Model             | Intelligence Index | Price (USD per 1M tokens) | Speed (tokens/sec) | Latency (TTFT) |
+|------------------|--------------------|----------------------------|--------------------|----------------|
+| Grok 4           | Top-tier           | 3 / 15                     | 65.3 t/sec         | 7.40s          |
+| o3 pro (GPT 4.1) | Top-tier           | 2 / 8                      | 176 t/sec          | 0.46s          |
+| Gemini 2.5 Pro   | Very high          | 1.25 / 10                  | 145 t/sec          | 40.23s         |
+| Llama 4 Maverick | High               | 0.23 / 0.85                | 169.2 t/sec        | 0.31s          |
+| Mistral Medium 3 | Competitive        | 0.40 / 2                   | 91.7 t/sec         | 0.39s          |
+| DeepSeek-V2      | Very high          | 0.14 / 0.28                | High               | Low–Moderate   |
+| Claude 3 Opus    | Top-tier           | 15 / 75                    | 27.9 t/sec         | 0.97s          |
+| Sonar (Perplexity)| High              | 1 / 1                      | 105 t/sec          | 1.94s          |
+
+
+---
+
+
 
 
 
